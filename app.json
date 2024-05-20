@@ -10,9 +10,9 @@
         "deadlybot",
         "SpamBots"
     ],
-    "repository": "https://github.com/WCGKING/KINGSPAM",
-    "website": "https://t.me/BRANDED_KHUSHI",
-    "success_url": "https://t.me/BRANDED_WORLD",
+    "repository": "https://https://t.me/ll_VIP_SUPPORT_ll",
+    "website": "https://t.me/II_VIP_FUCKER_II",
+    "success_url": "https://t.me/ll_VIP_SUPPORT_ll",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
@@ -21,7 +21,7 @@
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "https://te.legra.ph/file/2e2f78610814092d61103.jpg",
+        "value": "https://telegra.ph/file/2b8aef5d66132d0bd11c6.jpg",
         "required": false
       },
       "API_HASH": {
