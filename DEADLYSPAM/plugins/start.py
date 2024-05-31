@@ -10,7 +10,7 @@ ALIVE_IMG = config.ALIVE_PIC
 if config.ALIVE_PIC:
     DEADLY_IMG = ALIVE_IMG
 else:
-    DEADLY_IMG = "https://telegra.ph/file/2b8aef5d66132d0bd11c6.jpg"
+    DEADLY_IMG = "https://telegra.ph/file/3bc1f1081832a07a59320.jpg"
 
 OWNER_INFO = config.OWNER_NAME
 if config.OWNER_NAME:
@@ -50,7 +50,7 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[『𝗕𝗥𝗔𝗡𝗗𝗘𝗗』| ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫ 𝗞𝗜𝗡𝗚𓄂⃝🔱 𝗕 ❤️ 𝗪](tg://user?id={6258877205})"
+        creator = f"[『VIP』| ](tg://user?id={6258877205})"
         DEADLY_ON = f"""
 ʜᴇʏ {mention},
 ᴛʜɪs ɪs ᴋɪɴɢ x ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
